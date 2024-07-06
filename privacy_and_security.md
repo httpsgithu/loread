@@ -1,0 +1,2 @@
+- Loread has no server to save your data.
+- Loread uses RSS server APIs to get feeds data for you.
